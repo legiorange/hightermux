@@ -6,7 +6,7 @@ hightermux cloud easy to use , dont let otherthing wast you time.
 
 just one-time run shell script.
 
-### Anlinux
+### [Anlinux](https://github.com/EXALAB/AnLinux-App)
 
 Anlinux is very tiny, easy to use ,let you use other system at the same time,dont need root.
 
