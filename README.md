@@ -26,9 +26,15 @@ when wrong thing happend , you can delete it and download new one. system like:
 - Parrot-Security
 - Ubuntu
 
+More infomation click the link
+
+### NAT(Network Address Translation)
+
+- [cpolar (better than other in china)](https://cpolar.com/)
+
 ### ssh
 
-it's a very simple shell script , just download it add u 'public kay' ， upload it to your private git repo , download it on you termux ,run it .(if u dont want run sshd when you open termux , just delete it on script)
+ download it add 'public kay' , upload it to your private git repo ,download and run (auto-run sshd 8022)
 
 [Wiki link](https://github.com/legiorange/hightermux/wiki)
  
