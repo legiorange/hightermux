@@ -38,3 +38,6 @@ More infomation click the link
 
 [Wiki link](https://github.com/legiorange/hightermux/wiki)
  
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" /></a>
