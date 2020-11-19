@@ -1,4 +1,6 @@
-# hightermux
+# hightermux @deprecated
+
+more things on https://github.com/sequncee/devenv 
 
 ## what is hightermux
 
